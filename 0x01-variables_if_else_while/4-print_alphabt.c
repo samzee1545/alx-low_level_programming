@@ -17,7 +17,6 @@ int main(void)
 		}
 		else
 		{
-			putchar(97 + i + 2);
 			i++;
 		}
 	}
