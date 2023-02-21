@@ -8,7 +8,7 @@ int main(void)
 {
 	int i = 0;
 
-	while(i < 52)
+	while (i < 52)
 	{
 		if (i < 26)
 		{
