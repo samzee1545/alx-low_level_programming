@@ -5,6 +5,12 @@
  * Description: printing lower case alphabets
  * Return: (0) always
  */
+int main(void)
+{
+	print_alphabet();
+	return (0);
+}
+
 void print_alphabet(void)
 {
 	int i = 0;
@@ -16,10 +22,4 @@ void print_alphabet(void)
 	}
 	putchar('\n');
 	return;
-}
-
-int main(void)
-{
-	print_alphabet();
-	return (0);
 }
