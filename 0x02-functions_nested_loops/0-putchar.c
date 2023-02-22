@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main: Entry point
+ * main - Entry point
  * Description: printing _putchar
  * Return: 0 (always)
  */
