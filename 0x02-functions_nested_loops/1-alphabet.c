@@ -1,10 +1,8 @@
 #include "main.h"
 /**
- * main - Entry point
- * Description: printing lower case alphabets
- * Return: (0) always
+ * print_alphabet - printing letters
  */
-/* function printing letters */
+
 void print_alphabet(void)
 {
 	char letters;
